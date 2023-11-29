@@ -63,7 +63,7 @@ CGTN-p,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
 大湾区卫视,http://150.138.8.143/00/SNM/CHANNEL00000670/index.m3u8
 
-山东,#genre#
+轮播,#genre#
 
 斗鱼-庆余年第一季,http://epg.112114.xyz/douyu/7489563
 
