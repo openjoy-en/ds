@@ -68,6 +68,9 @@ CGTN-p,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 斗鱼-庆余年第一季,http://epg.112114.xyz/douyu/7489563
 斗鱼-kpl,http://epg.112114.xyz/douyu/1863767
 虎牙-kpl,http://epg.112114.xyz/huya/660002
+虎牙-雪中悍刀行,http://epg.112114.xyz/huya/11336592
+虎牙-士兵突击,http://epg.112114.xyz/huya/11342430
+
 
 其他,#genre#
 
