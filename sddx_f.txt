@@ -36,6 +36,7 @@ CGTN-p,http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
 东方卫视,http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
 江苏卫视,http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
 辽宁卫视,http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+山东卫视,https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 北京卫视,http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
 天津卫视,http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
 河北卫视,http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
