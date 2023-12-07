@@ -259,9 +259,3 @@ Unknown_94,http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
 鱼台-生活,http://150.138.8.143/00/SNM/CHANNEL00001108/index.m3u8
 河东-综合,http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 动漫秀场,http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
-
-se,#genre#
-
-王鸥,https://cdn.yrplay2.com/20231201/qK2CGmOM/2000kb/hls/index.m3u8
-唐嫣01,https://cdn.yrplay4.com/20231121/S9wAurAG/2000kb/hls/index.m3u8
-一本道082616-001美鮑收集沢尻涼子,https://vip5.ddyunbo.com/20231129/hZJM6BRb/600kb/hls/index.m3u8
